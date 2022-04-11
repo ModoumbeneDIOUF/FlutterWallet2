@@ -1,0 +1,91 @@
+{
+    "your_secret_code_reqired": "Votre code secret est requis pour devérouiller",
+
+    "transfert_text":"TRANSFERT",
+    "transfert_lower_text":"Transfert",
+    "bill_lower_text":"Factures",
+    "credit_lower_text":"Crédit",
+     "payment_text": "PAIEMENTS",
+     "credit_text": "CRÉDIT",
+     "from_text": "De",
+     "to_text": "À",
+     "facture_text": "FACTURE",
+     "buy_credit_for_text": "Crédit",
+     "see_all_text": "VOIR TOUT",
+     "my_balance": "Mon solde",
+     "update_ate": "Mise à jour le",
+     "reload": "Recharger",
+     "all_transaction": "Toutes les transactions",
+     "transaction_details": "Details de la transaction ",
+
+     "no_favorite_text": "Pas de contact recent",
+     "loading_contact_text": "Chargement en cours ...",
+
+     "send_money_home_toolbar_text": "Envoyez de l'argent",
+     "send_money_home_search_hint_text": "Rechercher",
+     "send_money_home_send_to_number_text": "Envoyez à un numéro",
+     "send_money_home_send_favorite_text": "FAVORIS",
+     "send_money_home_send_contact_text": "CONTACTS",
+     "contact_list_text": "Liste des contacts",
+
+     "name_hint_text": "Nom complet",
+     "phone_hint_text": "Numéro de téléphone",
+     "password_hint_text": "Mot de passe",
+     "bill_number_hint_text": "Numéro de référence",
+     "send_button_text": "ENVOYER",
+     "amout_send_hint_text": "Montant envoyé",
+     "amout_receive_hint_text": "Montant reçu",
+     "yes_button": "OUI",
+     "no_button": "NON",
+     "costs_text": "frais Nafa",
+     "nafa_transfer_text": "Transfert Nafa",
+     "transfer_to_nafa_text": "Transfert vers un autre compte",
+     "transfer_to_om_text": "Transfert vers un compte Orange money",
+     "transfer_to_fm_text": "Transfert vers un compte Free money",
+     "transfer_to_em_text": "Transfert vers un compte E-Money",
+     "transfer_to_wave_text": "Transfert vers un compte wave",
+     "bill_sonatel": "Paiement facture sonatel",
+     "bill_woyofal": "Paiement facture woyofal",
+     "bill_canal": "Paiement facture canal plus",
+     "bill_tnt": "Paiement facture TNT",
+     "rapido_tnt": "Paiement facture Rapido ",
+     "sen_assurence": "Paiement facture Sen Assurance vie",
+     "nsia_assurence": "Paiement facture NSIA Assurance vie",
+     "credit_seddo": "Achat crédit Seddo",
+     "credit_izi": "Achat crédit IZI",
+     "credit_yakalma": "Achat crédit Yakalma",
+     "paiement_confirmation": "Confirmer le paiement",
+     "sent_confirmation": "Confirmer le transfert",
+     "amout_text": "Montant",
+     "btn_confirm_text": "Confirmer",
+     "operation_in_progress": "Opération en cours ...",
+     "message_thank": "Merci d'avoir choisi Nafa",
+     "message_bill_reference": "Entrez le numéro de la facture à partir de la lettre \"P\" sans epaces",
+
+
+     "dest_text": "Destinataire",
+
+     "payment_home_toolbar_text": "Paiements",
+     "payment_home_search_hint_text": "Rechercher",
+
+     "buy_credit_home_toolbar_text": "Achat crédit",
+     "buy_credit_home_search_hint_text": "Rechercher",
+     "buy_credit_home_to_number_text": "Acheter du crédit pour un nouveau numéro",
+     "buy_credit_home_favorite_text": "FAVORIS",
+     "buy_credit_home_contact_text": "CONTACTS",
+     "choice_contact_text": "Choisir un contact",
+     "recent_beneficiaries_text": "Bénéficiaires récents",
+
+
+
+     "amout_errr_text": "5 est le montant minimun",
+
+     "invite_personne": "Inviter un ami à joindre Nafa",
+     "call_service": "Appelez le service client",
+     "see_agent_nearby": "Trouvez les agents à proximité",
+     "verify_ceiling": "Vérifiez votre plafond",
+     "promotionel_code": "Utilisez le code promotionnel",
+     "sign_out": "Se deconnecter"
+
+     
+}

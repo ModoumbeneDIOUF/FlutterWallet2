@@ -1,0 +1,3 @@
+ getTranslated(context, "my_balance")!.toString(),
+
+ telegram  july 10

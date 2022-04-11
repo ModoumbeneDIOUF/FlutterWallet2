@@ -1,0 +1,96 @@
+{
+    "your_secret_code_reqired": "Your secret code is required for unlock",
+
+     "transfert_text":"TRANSFER",
+     "transfert_lower_text":"Transfer",
+     "bill_lower_text":"Bill",
+     "credit_lower_text":"Credit",
+     "payment_text": "PAYMENTS",
+     "credit_text": "CREDIT",
+     "from_text": "From",
+     "to_text": "To",
+     "facture_text": "BILL",
+     "buy_credit_for_text": "Credit",
+     "see_all_text": "SEE ALL",
+     "my_balance": "My balance",
+     "update_ate": "Update at",
+     "reload": "Reload",
+     "all_transaction": "All transactions",
+     "transaction_details": "Transaction details",
+     
+
+     "no_favorite_text": "No recent contact",
+     "loading_contact_text": "Loading ...",
+
+     "send_money_home_toolbar_text": "Send money",
+     "send_money_home_search_hint_text": "Research",
+     "send_money_home_send_to_number_text": "Send to a number",
+     "send_money_home_send_favorite_text": "FAVORITES",
+     "send_money_home_send_contact_text": "CONTACTS",
+     "contact_list_text": "Contacts list",
+
+     "name_hint_text": "Fullname",
+     "phone_hint_text": "Phone number",
+     "password_hint_text": "Password",
+     "bill_number_hint_text": "Reference number",
+     "send_button_text": "SEND",
+     "amout_send_hint_text": "Amount sent",
+     "amout_receive_hint_text": "Amount received",
+     "yes_button": "YES",
+     "no_button": "NO",
+     "costs_text": "costs Nafa",
+     "nafa_transfer_text": "Nafa transfer",
+     "transfer_to_nafa_text": "Tranfer to another account",
+     "transfer_to_om_text": "Transfert to an Orange money account",
+     "transfer_to_fm_text": "Transfert to Free money account",
+     "transfer_to_em_text": "Transfert to a E-Money account",
+     "transfer_to_wave_text": "Transfert to a wave account",
+     "paiement_confirmation": "Payment confirmation",
+     "bill_sonatel": "Sonatel bill payment",
+     "bill_woyofal": "Woyofal bill payment",
+     "bill_canal": "Canal bill payment",
+     "bill_tnt": "TNT bill payment",
+     "rapido_tnt": "Rapido bill payment",
+     "sen_assurence": "Sen Assurance vie bill payment",
+     "nsia_assurence": "NSIA Assurance vie bill payment",
+     "credit_seddo": "Seddo credit purchase",
+     "credit_izi": "IZI credit purchase",
+     "credit_yakalma": "Yakalma credit purchase",
+     "sent_confirmation": "Transfer confirmation",
+     "amout_text": "Amount",
+     "btn_confirm_text": "Confirm",
+     "operation_in_progress": "Operation in progress ...",
+     "message_thank": "Thanks for choosing Nafa",
+     "message_bill_reference": "Enter bill number from the letter \"P\" without spaces",
+     
+
+     "dest_text": "Recipient",
+     
+     "payment_home_toolbar_text": "Payments",
+     "payment_home_search_hint_text": "Research",
+
+     "buy_credit_home_toolbar_text": "Buy credit",
+     "buy_credit_home_search_hint_text": "Research",
+     "buy_credit_home_to_number_text": "Buy credit for a new number",
+     "buy_credit_home_favorite_text": "FAVORITES",
+     "buy_credit_home_contact_text": "CONTACTS",
+     "choice_contact_text": "Choose a contact",
+     "recent_beneficiaries_text": "Recent beneficiaries",
+
+
+     "amout_errr_text": "5 is the minimum amount",
+
+     "invite_personne": "Invite a friend to join Nafa",
+     "call_service": "Call customer service",
+     "see_agent_nearby": "Find agents nearby",
+     "verify_ceiling": "Check your ceiling",
+     "promotionel_code": "Use promotional code",
+     "sign_out": "Sign out"
+     
+
+     
+    
+
+
+
+}
